@@ -17,7 +17,7 @@ Visualizes sensor data (last 5 hours) using Colab and Matplotlib
 Uses ThingSpeak’s REST API to retrieve data
 🚀 How to Use
 
-Clone this repository git clone https://github.com/your-username/iot-environmental-sensors.git
+Clone this repository git clone 
 
 Update API Keys In virtual_station.py or the Colab notebook: Replace the WRITE_API_KEY with your ThingSpeak write key Replace the READ_API_KEY if your channel is private
 
